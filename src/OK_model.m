@@ -30,8 +30,8 @@ classdef OK_model
             % x - Input sample values
             % y - Output sample values
             % opti - optimization strategy for hyoeroarameters
-            % givenTheta - (optional) Define ordinary Kriging modek with specific 
-            % Hyperparameter values 
+            % givenTheta - (optional) Define ordinary Kriging model with specific 
+            %              hyperparameter values 
             %
             % outputs:
             % obj - Ordinary kriging class
