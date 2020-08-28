@@ -92,5 +92,5 @@ Lower image sample positions (black dots), new found sample (red dot) and local 
 
 ### References
 
-Cite work with:
-State-of-the-art and Comparative Review of Adaptive Sampling Methods for Kriging. JN Fuhg, A Fau, U Nackenhorst. 2020.
+If you use part of the work consider citing:
+Fuhg, Jan N., Amélie Fau, and Udo Nackenhorst. "State-of-the-Art and Comparative Review of Adaptive Sampling Methods for Kriging." Archives of Computational Methods in Engineering (2020): 1-59.
