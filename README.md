@@ -6,7 +6,7 @@ The following library provides a Matlab implementation of Ordinary Kriging accom
 ## Getting Started
 
 We encourage those who are interested in using this library to run and pick a random input adaptive method and benchmark function.
-Run [`main.m`] and follow the instructions for user input. 1D and 2D benchmark functions allow for updated visualization of the adatpive process.
+Run [`main.m`] and follow the instructions for user input. 1D and 2D benchmark functions allow for updated visualization of the adaptive process.
 
 
 ### Prerequisites
