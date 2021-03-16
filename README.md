@@ -17,7 +17,7 @@ Matlab version R2017a or higher.
 ## Examples 
 
 
-Example of a 1D adaptive sampling process with the SFVCT technique. Upper image target function (red dashed), metamodel (blue) and sample positions.
+Example of a 1D adaptive sampling process with the SFCVT technique. Upper image target function (red dashed), metamodel (blue) and sample positions.
 Lower image sample positions, optimization function for next sample (blue), position of new sample (red dashed). Red areas are constraints on the optimization space. 
 <p align="center">
 <img align="middle" src="docs/SFVCT_1d.gif" alt="1D Adaptive proceudre with SFVCT" width="550" height="500" />
