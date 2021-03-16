@@ -1,4 +1,4 @@
-# Matlab Implementation Of State-Of-The-Art Adpative Techniques for Ordinary Kriging
+# Matlab Implementation Of State-Of-The-Art Adapative Techniques for Ordinary Kriging
 
 The following library provides a Matlab implementation of Ordinary Kriging accompanied by the most commonly used adaptive sampling techniques. For a comparative review of these methods test cases are provided within this framework.
 
