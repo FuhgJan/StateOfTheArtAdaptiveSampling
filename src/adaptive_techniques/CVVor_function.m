@@ -27,6 +27,7 @@ for i=2:size(C{k,2},1)
     distance = norm(C{k,2}(i,:)-P_sensitive);
     if distance > maxDistance
         x_new = C{k,2}(i,:);
+        maxDistance = distance;
     end
 end
 
